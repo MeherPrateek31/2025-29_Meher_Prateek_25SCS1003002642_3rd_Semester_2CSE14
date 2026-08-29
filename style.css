@@ -5,28 +5,26 @@
    ========================================================= */
 
 :root {
-  /* --- Color tokens (GitHub-dark inspired, multi-accent) --- */
- --bg: #0d1117;
-  --bg-soft: #0a0e14;
-  --panel: #161b22;
-  --panel-2: #1c2128;
-  --border: #30363d;
-  --border-soft: #21262d;
+  --bg: #15161A;
+  --bg-soft: #1B1D23;
 
-  --text: #e6edf3;
-  --text-dim: #8b949e;
-  --text-faint: #6e7681;
+  --panel: #22242C;
+  --panel-2: #292B35;
 
+  --border: #393C47;
+  --border-soft: #2F313B;
+
+  /* Text */
+  --text: #F1F0F5;
+  --text-dim: #B8B5C2;
+  --text-faint: #858391;
+
+  /* Pastel Accent Colors */
   --accent-green: #bafdfc;
-  --accent-amber: #d29922;
-  --accent-purple: #a371f7;
-  --accent-blue: #58a6ff;
-  --accent-red: #f85149;
-  /* --- Typography tokens --- */
-  --font-display: 'Space Grotesk', 'Segoe UI', sans-serif;
-  --font-body: 'Inter', 'Segoe UI', sans-serif;
-  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
-
+  --accent-amber: #E8C99B;
+  --accent-purple: #C4B5E8;
+  --accent-blue: #A8C7E8;
+  --accent-red: #E8A6A6;
   /* --- Layout tokens --- */
   --max-width: 1180px;
   --nav-height: 72px;
