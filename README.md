@@ -98,7 +98,7 @@ The project can also be opened directly in a browser by double-clicking `index.h
 
 ## 🚀 Live Demo
 
-[Live Demo](https://meherprateek31.github.io/2025-29_Meher_Prateek_25SCS1003002642_3rd_Semester_2CSE14/)
+[Live Demo]( https://meherprateek31.github.io/2025-29_Meher_Prateek_25SCS1003002642_3rd_Semester_2CSE14/ )
 
 *(Live once GitHub Pages is enabled for this repository — see [Deploying to GitHub Pages](#-deploying-to-github-pages) below.)*
 
