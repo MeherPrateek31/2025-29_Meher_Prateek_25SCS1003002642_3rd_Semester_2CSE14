@@ -6,13 +6,22 @@
 
 :root {
   /* --- Color tokens (GitHub-dark inspired, multi-accent) --- */
---bg-primary: #0B132B;
---bg-secondary: #1C2541;
---primary: #3A86FF;
---accent: #5BC0BE;
+ --bg: #0d1117;
+  --bg-soft: #0a0e14;
+  --panel: #161b22;
+  --panel-2: #1c2128;
+  --border: #30363d;
+  --border-soft: #21262d;
 
---text-primary: #FFFFFF;
---text-secondary: #B8C1EC;
+  --text: #e6edf3;
+  --text-dim: #8b949e;
+  --text-faint: #6e7681;
+
+  --accent-green: #3fb950;
+  --accent-amber: #d29922;
+  --accent-purple: #a371f7;
+  --accent-blue: #58a6ff;
+  --accent-red: #f85149;
   /* --- Typography tokens --- */
   --font-display: 'Space Grotesk', 'Segoe UI', sans-serif;
   --font-body: 'Inter', 'Segoe UI', sans-serif;
